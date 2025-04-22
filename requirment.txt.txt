@@ -1,6 +1,0 @@
-streamlit
-pandas
-pytz
-dnspython
-plotly
-python-dotenv
