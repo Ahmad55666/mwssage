@@ -1,0 +1,6 @@
+streamlit
+pandas
+pytz
+dnspython==2.4.2  # Specific version to avoid conflicts
+plotly
+python-dotenv
